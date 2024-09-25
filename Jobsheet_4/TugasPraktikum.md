@@ -78,6 +78,52 @@
 
             Hasil eksekusi:
 
+            <img src = "Screenshot\praktikum4_langkah3(1).png">
+
+            Perbaikan kode:
+
+            <img src = "Screenshot\praktikum4_langkah3(2).png">
+
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum4_langkah3(3).png">
+
+        + Langkah 4
+        
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum4_langkah4(1).png">
+
+            Perbaikan kode:
+
+            <img src = "Screenshot\praktikum4_langkah4(2).png">
+
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum4_langkah4(3).png">
+
+        + Langkah 5
+        
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum4_langkah5(1).png">
+
+            Perubahan kode jika variabel login mempunyai kondisi lain:
+
+            <img src = "Screenshot\praktikum4_langkah5(2).png">
+
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum4_langkah5(3).png">
+
+        + Langkah 6
+        
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum4_langkah6.png">
+
+            Manfaat Collection For:
+
     * Praktikum 5
         + Langkah 2
         
