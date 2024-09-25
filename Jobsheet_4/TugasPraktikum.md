@@ -8,36 +8,70 @@
         + Langkah 2
         
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum1_langkah2.png">
 
         + Langkah 3
 
+            Kode program:
+
+            <img src = "Screenshot\praktikum1_langkah3(1).png">
+
             Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum1_langkah3(2).png">
 
     * Praktikum 2
         + Langkah 2
         
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum2_langkah2.png">
 
         + Langkah 3
 
             Hasil eksekusi:
 
+            <img src = "Screenshot\praktikum2_langkah3(1).png">
+
+            Perbaikan kode:
+
+            <img src = "Screenshot\praktikum2_langkah3(2).png">
+
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum2_langkah3(3).png">
+
+
     * Praktikum 3
         + Langkah 2
         
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum3_langkah2.png">
 
         + Langkah 3
 
             Hasil eksekusi:
 
+            <img src = "Screenshot\praktikum3_langkah3(1).png">
+
+            Perbaikan kode:
+
+            <img src = "Screenshot\praktikum3_langkah3(2a).png">
+
+            <img src = "Screenshot\praktikum3_langkah3(2b).png">
+
+            Hasil eksekusi:
+
+            <img src = "Screenshot\praktikum3_langkah3(3).png">
+
+
     * Praktikum 4
         + Langkah 2
         
             Hasil eksekusi:
+            
             <img src = "Screenshot\praktikum4_langkah2.png">
 
         + Langkah 3
