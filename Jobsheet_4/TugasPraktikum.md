@@ -133,33 +133,41 @@
         + Langkah 2
         
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum5_langkah2.png">
 
         + Langkah 3
 
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum5_langkah3.png">
 
         + Langkah 4
 
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum5_langkah4(1).png">
 
             Perbaikan kode:
+
             <img src = "Screenshot\praktikum5_langkah4(2).png">
 
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum5_langkah4(3).png">
 
         + Langkah 5
 
             Hasil eksekusi:
+
             <img src = "Screenshot\praktikum5_langkah5(1).png">
 
             Perubahan kode:
+
             <img src = "Screenshot\praktikum5_langkah5(2).png">
 
             Hasil eksekusi:
+            
             <img src = "Screenshot\praktikum5_langkah5(3).png">
 
 
